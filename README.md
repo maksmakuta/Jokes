@@ -1,6 +1,7 @@
 # Jokes
 
-Android app that show random joke from any backends
+Android app that show random joke from any backends 
+App now in active development
 
 ### Backends
 
